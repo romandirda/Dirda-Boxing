@@ -1,0 +1,5 @@
+kliknu pravym na volnou plochu ve slozce
+dam open git bash
+napisu git add . (odkliknu enterem, to mi prida všechny soubory na pripravu k nahrani do cloudu)
+napisu git commit (to mi otevre notepad, dolu napisu co jsem zmenil)
+napisu git push (a mam hotovo)
